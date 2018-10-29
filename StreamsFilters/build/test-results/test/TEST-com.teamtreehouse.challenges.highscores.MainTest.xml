@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.teamtreehouse.challenges.highscores.MainTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-10-29T09:00:03" hostname="Chloes-MacBook-Air.local" time="0.348">
+  <properties/>
+  <testcase name="streamIsUsed" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.315"/>
+  <testcase name="filterIsCalled" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.003"/>
+  <testcase name="appropriateBurgerTimeAppears" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.019"/>
+  <testcase name="onlyBurgerTime" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.002"/>
+  <testcase name="onlyHighScores" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.002"/>
+  <system-out><![CDATA[Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
